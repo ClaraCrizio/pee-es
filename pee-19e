@@ -5,14 +5,10 @@
 library(openxlsx)
 library(tidyverse)
 
-Base_MUNIC_2012 
-
-MUNIC2018 <-  read.xlsx("Base_MUNIC_2019.xlsx", sheet = "Educação")
-VARIAVEIS_EXT <- read.xlsx("Base_MUNIC_2019.xlsx", sheet = "Variáveis externas")
+MUNIC2018 <-  read.xlsx("Base_MUNIC_2018.xlsx", sheet = "Educação")
+VARIAVEIS_EXT <- read.xlsx("Base_MUNIC_2018.xlsx", sheet = "Variáveis externas")
 
 MAX_COLEG <- n_distinct(MUNIC2018)*4
-
-n_distinct(MUNIC2018$A1)
 
 # Número de municípios nos procedimentos do INEP é diferente = 5570 (número de municípios atualizado)
 
