@@ -4,7 +4,6 @@
 
 library(openxlsx)
 library(tidyverse)
-library(gdata)
 
 Base_MUNIC_2012 
 
