@@ -24,11 +24,12 @@ Os scripts compartilhados são de cálculo de indicadores relacionados à meta 1
 
 <h2>Fontes de Dados</h2>
 
+<li><a href="https://www.ibge.gov.br/estatisticas/sociais/saude/16770-pesquisa-de-informacoes-basicas-estaduais.html?=&t=destaques">Pesquisa de Informações Básicas Estaduais (2018) - IBGE</a></li>
+
+<li><a href="https://www.ibge.gov.br/estatisticas/sociais/educacao/10586-pesquisa-de-informacoes-basicas-municipais.html?=&t=destaques">Pesquisa de Informações Básicas Municipais (2018) - IBGE</a></li>
+
+<li><a href="https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados">Censo Escolar (2020) - INEP</a></li>
 
 <h2>Observações</h2>
-
-
-ano dos dados
-fonte de dados - link para fontes
-observação sobre alteração nos microdados na última divulgação do censo escolar.
+Para a manipulação dos dados foi usado o pacote <i>dplyr</i> do <i>tidyverse</i>.
 
