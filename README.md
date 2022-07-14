@@ -3,7 +3,7 @@ Reprodução da metodologia nacional (INEP/PNE) para cálculo de indicadores 19b
 
 <h2>Introdução</h2>
 As orientações passo a passo para o cálculo dos indicadores de acompanhamento das metas do Plano Nacional de Educação (PNE) são publicadas pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP) à cada <a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/gestao-do-conhecimento-e-estudos-educacionais/estudos-educacionais/relatorios-de-monitoramento-do-pne">ciclo de monitoramento das metas</a>.
-O Instituto Jones dos Santos Neves (IJSN/ES) segue as orientações e etapas descritas nos relatórios publicados pelo INEP para o cálculo dos indicadores em nível estadual para realizar o <a href="http://www.ijsn.es.gov.br/artigos/5393-acompanhamento-do-plano-estadual-de-educacao-do-espirito-santo-pee-2019">acompanhamento do Plano Estadual de Educação do estado do Espírito Santo</a>.
+O Instituto Jones dos Santos Neves (IJSN/ES) segue as orientações e etapas descritas nos relatórios publicados pelo INEP para o cálculo dos indicadores em nível estadual para realizar o <a href="http://www.ijsn.es.gov.br/artigos/6108-acompanhamento-do-plano-estadual-de-educacao-do-espirito-santo-pee-2021">acompanhamento do Plano Estadual de Educação do estado do Espírito Santo</a>.
 Os cálculos dos indicadores 19b, 19c, 19d, 19e e 19f do ES, aqui apresentados, foram desenvolvidos durante a execução do projeto “Estudos Educacionais”, vinculado ao IJSN em parceria com a Secretaria de Estado de Educação do Espírito Santo e financiado pela <a href="https://fapes.es.gov.br/">Fundação de Amparo à Pesquisa e Inovação do Espírito Santo (FAPES)</a>.
 
 <h2>Indicadores Educacionais</h2>
