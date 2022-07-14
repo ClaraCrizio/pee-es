@@ -2,8 +2,6 @@
 # indicador 19b: percentual de colegiados intraescolares nas escolas públicas ##
 ################################################################################
 
-library(Hmisc)
-library(psych)
 library(openxlsx)
 library(tidyverse)
 
